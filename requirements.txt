@@ -1,7 +1,7 @@
 apache-airflow[gcp]==1.10.3
 ethereum-etl==1.4.1
 google-cloud-bigquery
-pytest==5.4.1
+pytest==9.0.3
 apache-airflow>=2.0.2 # not directly required, pinned by Snyk to avoid a vulnerability
 pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
 rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
